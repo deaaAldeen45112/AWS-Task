@@ -25,3 +25,10 @@ The following architecture was implemented as part of this project:
   - **Public Subnet**: Contains a **NAT Gateway** for outbound traffic, a **Load Balancer**, and an **SSH server** for administrative access.
   - **Private Subnet (Front-End)**: Hosts the EC2 instances (web servers).
   - **Private Subnet (Back-End)**: Hosts the MySQL database.
+  - 
+## Documentation
+A full project report is available in `aws_report.pdf`. 
+
+## Video Presentation
+A video presentation demonstration of the VPC setup is available on YouTube:  
+[Watch the Video Presentation](https://www.youtube.com/watch?v=ja82c77TEF0&t=1s)
