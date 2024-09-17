@@ -8,7 +8,6 @@ This project demonstrates how to set up an AWS VPC with a load balancer distribu
 
 The following architecture was implemented as part of this project:
 
-![Architecture Diagram]
 ![image](https://github.com/user-attachments/assets/c6fe87b6-6231-45d7-9d02-d4cefaed4e0b)
 
 
